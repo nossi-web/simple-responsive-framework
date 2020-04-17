@@ -1,0 +1,13 @@
+[user]
+    name = Overseer, The
+    email = jnorris@nossi.edu
+
+[merge]
+    conflictstyle = diff3
+    tool = vimdiff
+
+[diff]
+    tool = vimdiff
+
+[github]
+    user = nossi-web
